@@ -1,8 +1,8 @@
 ![](src/main/webapp/frontend/styles/images/SWT-Planer.png)
 
-## SWT-Planer 2019 - ein Softwaretechnikprojekt
+## SWT-Planer 2019 - Homework and Student Progress Tracking Software
 
-Siehe `screencast.mkv` für einen screencast.
+![](screencast.mp4)
 
 ![](screenshot.png)
 
